@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**zago-dev2/zago-dev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Olá! Eu sou Gustavo 👋
 
-Here are some ideas to get you started:
+🐍 Estudando Python
+💻 Aprendendo programação
+📚 Construindo projetos para praticar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Atualmente estudando
+
+- Python
+- Lógica de programação
+- Git e GitHub
+- Desenvolvimento de software
+
+## 🚀 Projetos
+
+📦 Controle de Estoque
+🎮 Quiz em Python
+💰 Controle Financeiro
+
+## 🎯 Objetivo
+
+Continuar evoluindo em programação e construir projetos
+que resolvam problemas reais.
