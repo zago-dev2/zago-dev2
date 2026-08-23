@@ -1,14 +1,21 @@
-Olá! Eu sou Gustavo 👋
+# Olá! Eu sou Gustavo 👋
 
 🐍 Estudante de Python
+
 💻 Aprendendo programação e desenvolvimento de software
+
 🚀 Criando meus primeiros projetos
 
 🛠️ Atualmente estudando
+
 Python
+
 Lógica de programação
+
 Git e GitHub
+
 Desenvolvimento de software
+
 🚀 Projetos
 
 📦 Estoque Fácil
